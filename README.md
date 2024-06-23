@@ -18,8 +18,8 @@ Welcome to the Sales Data Analysis API repository! This project utilizes FastAPI
 1. Clone the repository:
 
    ```bash
-   git clone <repo-url>
-   cd <repo-name>
+   git clone 'https://github.com/KayalvizhiT513/Sales-Data-Analysis-API'
+   cd Sales-Data-Analysis-API
    ```
 
 2. Install dependencies:
